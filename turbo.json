@@ -1,5 +1,8 @@
 {
   "pipeline": {
-    "dev": {}
+    "dev": {
+      "cache": false,
+      "persistent": true
+    }
   }
 }
