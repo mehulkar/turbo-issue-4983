@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "rollup": "^3.23.0",
+    "turbo": "^1.9.8"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
