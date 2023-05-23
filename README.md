@@ -6,3 +6,10 @@ Clone this down and:
 npm i
 npx turbo dev
 ```
+
+## Make it work
+
+```
+npm i -D rollup@3.20
+npx turbo dev
+```
